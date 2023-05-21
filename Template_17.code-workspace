@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "Base"
+		},
+		{
+			"path": "Pipeline"
+		},
+		{
+			"path": "RequiredApps"
+		},
+		{
+			"path": "test"
+		}
+	],
+	"settings": {
+		"CRS.ObjectNamePrefix": "17 ",
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.RemovePrefixFromFilename": false,
+		"CRS.OnSaveAlFileAction": "Rename",
+		"[al]": {
+			"editor.wordBasedSuggestions": false,
+			"editor.suggestSelection": "first",
+			"editor.formatOnSave": true,
+		},
+		"al.enableCodeAnalysis": false,
+		"al.codeAnalyzers": [
+			
+
+		
+			"${CodeCop}",
+			"${AppSourceCop}",
+			"${UICop}"
+		],
+		"al.ruleSetPath": "BC.Ruleset.json",
+		"al.enableCodeActions": true,
+		"todo-tree.tree.disableCompactFolders": true,
+		"todo-tree.tree.showCountsInTree": true
+	}
+}

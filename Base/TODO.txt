@@ -1,0 +1,3 @@
+Aufgabe 1. Finde den richtigen Datentyp -> https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/methods-auto/fieldtype/fieldtype-option
+Aufgabe 2. 2 Fussballpositionen hinzufügen
+Aufgabe 3. Hinzufügen einer automatischen Erhöhung um 1 des Feldes Team ID -> https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/properties/devenv-autoincrement-property

@@ -1,0 +1,11 @@
+{
+    "name": "Name",
+    "description": "Description",
+    "rules": [
+        {
+            "id": "DiagnosticId",
+            "action": "Error",
+            "justification": "Justification"
+        }
+    ]
+}
